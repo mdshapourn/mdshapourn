@@ -1,0 +1,25 @@
+body{
+font-family: Arial;
+background:#0C26FF;
+color:#FFFFFF;
+}
+.welcome{
+  color: #56f921;
+  font-size: 37px;
+}
+.top span{
+  color: yellow;
+}
+.info{
+  border:5px solid white;
+  padding: 20px;
+  border-radius:10px;
+  box-shadow:5px 5px 5px gray ;
+  
+}
+b{
+  color: #C8FF06;
+}
+img{
+  width: 100%;
+}
